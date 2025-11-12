@@ -1,4 +1,4 @@
 # karan_repository
 This is my first repository
 <br>
-Author - Karan Umredkar
+Author - Karan Umredkar (Scaledge)
